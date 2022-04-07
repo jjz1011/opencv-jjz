@@ -1,22 +1,14 @@
-# opencv-pyqt5
-使用opencv与pyqt5实现的图像处理程序
-![demo.jpg](demo.png)
-
-# Dependency
-* opencv-python
-* matplotlib
-* pyqt5
+# opencv-jjz
+使用opencv实现的图像处理程序
+使用pyqt5和qss编写前端界面
 
 ## 已实现功能
 * 图像旋转
-* 转灰度图
+* 灰度化
 * 图像平滑
-* 直方图均衡化
-* 形态学操作
-* 梯度计算
+* 均衡化
 * 阈值处理
 * 边缘检测
 * 轮廓检测 
-* 哈夫变换直线检测
 * 亮度调节
 * 伽马校正
